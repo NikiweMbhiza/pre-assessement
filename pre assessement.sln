@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pre assessement", "pre assessement.csproj", "{972E327F-DDE3-490E-9FFB-F58556E2862B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{972E327F-DDE3-490E-9FFB-F58556E2862B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972E327F-DDE3-490E-9FFB-F58556E2862B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{972E327F-DDE3-490E-9FFB-F58556E2862B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{972E327F-DDE3-490E-9FFB-F58556E2862B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DA26BDD-CD68-4A06-A3E7-1243B7243F9D}
+	EndGlobalSection
+EndGlobal
